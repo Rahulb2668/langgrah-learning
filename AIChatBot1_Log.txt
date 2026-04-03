@@ -1,0 +1,13 @@
+Your Conversation History
+You: Hi How are you?
+AI: I'm doing well, thanks! I'm an AI, so I don't have feelings, but I'm here and ready to help. What can I do for you today?
+You: My name is rahul
+AI: Nice to meet you, Rahul. How can I help you today?
+End of ConversationYour Conversation History
+You: Hi How are you?
+AI: I'm doing well, thanks! I'm an AI, so I don't have feelings, but I'm here and ready to help. What can I do for you today?
+You: My name is rahul
+AI: Nice to meet you, Rahul. How can I help you today?
+You: what is my name ?
+AI: Your name is Rahul.
+End of Conversation
